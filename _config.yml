@@ -198,6 +198,7 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+  - /devtools
 
 defaults:
   - scope:
