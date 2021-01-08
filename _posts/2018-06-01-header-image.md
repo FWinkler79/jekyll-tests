@@ -12,3 +12,5 @@ A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-them
 <!--more-->
 
 And here comes the rest...
+
+<div>{%- include extensions/youtube.html id='8m31EgQkswg' -%}</div>
